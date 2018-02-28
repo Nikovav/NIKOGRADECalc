@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    vertical-align: top;
+    background-color: blanchedalmond;
+}
+p{
+    text-align: center
+}
+button {
+    width: 100px;
+    color: black;
+    text-align: center;
+    right: 50px;
+
+}
+table {
+    text-align: center;
+    right:50px;
+}
+
+#myId {
+    color: yellow;
+}
+
+.fontLarge{
+    font-size: 14px;
+}
+p.center {
+    text-align: right;
+    color: red;
+}
+h1, h2, p {
+    text-align: center;
+    text-weight: bold;
+}
+#calculate{
+    font-size: 16px;
+    margin-bottom: 44px;
+    background-color: #92ccff;
+    padding: 5px 14px;
+    border-radius: 150px;
+}
+#calculatelast {
+    font-size: 16px;
+    margin-bottom: 44px;
+    background-color: #92ccff;
+    padding: 5px 14px;
+    border-radius: 150px;
+    right:50px;
+}
